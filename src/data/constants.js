@@ -136,7 +136,7 @@ export const Bio = {
       img: "https://media.licdn.com/dms/image/C4E0BAQHTQ9OabVjzTw/company-logo_200_200/0/1634703011528?e=2147483647&v=beta&t=PCjOnbNUp4o-EASyib_yflSI67VWmaLyTE8-lG104qY",
       role: "Frontend Developer",
       company: "A2D Innovations",
-      date: "July 2023 - Aug 2023",
+      date: "Oct 2023 - Nov 2023",
       desc: " Implemented a code base transformation from React to Next.js, resulting in a significant 20% improvement in WebApp performance and advanced rendering capabilities. Integrated modal functionality into the Dropdown feature, elevating the user experience to a higher level. Promoted collaborative efforts in implementing hotel management features, leading to improved efficiency and effectiveness of the system. Showcased expertise in restaurant management, including proficient order management, table management, real-time kitchen status, and digital menu capabilities.",
       skills: [
         "NextJs",
