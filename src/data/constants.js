@@ -8,7 +8,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/Bandinikhil",
     resume:
-      "https://drive.google.com/file/d/1yTZ_9MzeCpSYCJZ_lo8PmxtkLq6RKc4X/view?usp=sharing",
+      "https://drive.google.com/file/d/197YApPZyvEwThSc06CZfJgwQWZBCP8Jl/view?usp=drivesdk",
     linkedin: "http://linkedin.com/in/nikhilbg",
     //twitter: "https://twitter.com/nikhilbg",
   
@@ -28,11 +28,11 @@ export const Bio = {
           image:
             "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
         },
-        // {
-        //   name: "Next Js",
-        //   image:
-        //     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
-        // },
+        {
+          name: "Next Js",
+          image:
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
+        },
         {
           name: "HTML",
           image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
@@ -82,6 +82,11 @@ export const Bio = {
       title: "Others",
       skills: [
         {
+          name: "SEO",
+          image:
+            "data:image/png;base64,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",
+        },
+        {
           name: "Git",
           image:
             "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
@@ -128,8 +133,25 @@ export const Bio = {
   export const experiences = [
     {
       id: 0,
+      img: "https://media.licdn.com/dms/image/C4E0BAQHTQ9OabVjzTw/company-logo_200_200/0/1634703011528?e=2147483647&v=beta&t=PCjOnbNUp4o-EASyib_yflSI67VWmaLyTE8-lG104qY",
+      role: "Frontend Developer",
+      company: "A2D Innovations",
+      date: "July 2023 - Aug 2023",
+      desc: " Implemented a code base transformation from React to Next.js, resulting in a significant 20% improvement in WebApp performance and advanced rendering capabilities. Integrated modal functionality into the Dropdown feature, elevating the user experience to a higher level. Promoted collaborative efforts in implementing hotel management features, leading to improved efficiency and effectiveness of the system. Showcased expertise in restaurant management, including proficient order management, table management, real-time kitchen status, and digital menu capabilities.",
+      skills: [
+        "NextJs",
+        "PDFkit",
+        "JavaScript",
+        "ReactJS",
+        "MUI",
+        "Collaboration"
+        ],
+      // doc: "https://user-images.githubusercontent.com/105233916/280114075-ccc78650-7dcf-4b6a-9a9d-252475bdd4c4.png",
+    },
+    {
+      id: 1,
       img: "https://media.licdn.com/dms/image/C4E0BAQHfk_O8amPovQ/company-logo_200_200/0/1642532597169/oasis_infobyte_logo?e=2147483647&v=beta&t=TM72Bx844e0SO6-FE1OfyMjPFpr6oPkZwMr8qJLSt_0",
-      role: "Web Devlopment Intern",
+      role: "Web Devloper Intern",
       company: "Oasis Infobyte Pvt. Ltd.",
       date: "July 2023 - Aug 2023",
       desc: " During web development internship, I translated company-provided designs into functional web applications using HTML, CSS, JavaScript, and React. This experience honed my front-end development skills and fostered an ability to bring design concepts to life",
@@ -139,8 +161,9 @@ export const Bio = {
         "JavaScript",
         "ReactJS",
         ],
-      doc: "https://user-images.githubusercontent.com/105233916/280114075-ccc78650-7dcf-4b6a-9a9d-252475bdd4c4.png",
+      // doc: "https://user-images.githubusercontent.com/105233916/280114075-ccc78650-7dcf-4b6a-9a9d-252475bdd4c4.png",
     },
+ 
     // {
     //   id: 0,
     //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
@@ -226,8 +249,8 @@ export const Bio = {
   
   export const projects = [
     {
-      id: 9,
-      title: "Streamify - Video Player",
+      id: 20,
+      title: "Streamify - Video Streaming WebApp",
       date: "Jun 2023 - Jul 2023",
       description:
         "Streamify is a WebApp, a highly optimized web application with React, Redux, and TailwindCSS, featuring efficient search, lazy loading, live chat integration, and robust state management for enhanced user experience and code maintainability. Thoroughly tested for reliability using Jest.",
@@ -255,12 +278,12 @@ export const Bio = {
             "JavaScript",
             "Strapi",
             "Stripe",
-            "SaaS",
             "Redux Toolkit",
           ],
       category: "web app",
-      github: "https://kartstoree.netlify.app/",
-      webapp: "https://github.com/Bandinikhil/ecommerce_webApp/blob/main/README.md",
+      github: "https://github.com/Bandinikhil/ecommerce_webApp/blob/main/README.md",
+      webapp: "https://karttstore.netlify.app/",
+    
      
     },
     {
@@ -298,6 +321,140 @@ export const Bio = {
       category: "web app",
       github: "https://github.com/Bandinikhil/netflix-gpt/blob/main/README.md",
       webapp: "https://netfliixgpt.netlify.app/",
+ 
+    },
+    {
+      id: 3,
+      title: "Edtech-WebApp",
+      description:
+        "EdTech WebApp (React/Redux): Created a dynamic React-based EdTech platform for learning experiences, incorporating Redux for streamlined state management. (React/Redux) a responsive and interactive EdTech web application using React and Redux, enhancing user engagement and content delivery ",
+      image:
+        "https://github.com/Bandinikhil/images/assets/105233916/6c816e2e-0ce9-4fda-8df0-ca349d4551d3",
+        tags: [
+            "React Js",
+            "JavaScript",
+            "Jest",
+            "Tailwind CSS",
+            "Redux Toolkit",
+          ],
+      category: "web app",
+      github: "https://github.com/Bandinikhil/edtech",
+      webapp: "https://learntosapp.netlify.app/",
+ 
+    },
+    {
+      id: 4,
+      title: "Data-Analysis Dashboard",
+      description:
+        "Data Analysis Dashboard (React, Chart.js): Built a responsive data analysis dashboard in React, leveraging Chart.js for dynamic bar and line charts, delivering a visually intuitive platform for data-driven insights. Interactive Charts for Comprehensive Analysis, enhancing user engagement and providing a streamlined approach to in-depth data analysis.",
+      image:
+        "https://github.com/Bandinikhil/images/assets/105233916/422eba76-4fd0-4bd9-8800-ad212f712d89",
+        tags: [
+            "React Js",
+            "JavaScript",
+            "Jest",
+            "Tailwind CSS",
+            "Redux Toolkit",
+          ],
+      category: "web app",
+      github: "https://github.com/Bandinikhil/interactive-dashboard",
+      webapp: "https://interactive-dashboards.netlify.app/",
+ 
+    },
+    {
+      id: 5,
+      title: "Client-Email WebApp",
+      description:
+        "Client-Email Dashboard (React, Redux): Crafted a client-email dashboard in React with Redux state management. Data-Driven Email Analytics: Developed a frontend solution with React and JavaScript to visualize client email analytics using interactive bar and line charts, ensuring reliable functionality through comprehensive Jest testing.",
+      image:
+        "https://github.com/Bandinikhil/images/assets/105233916/18fc44e8-8e5c-4c67-ad25-cabfdc25dcf8",
+        tags: [
+            "React Js",
+            "JavaScript",
+            "Jest",
+            "Tailwind CSS",
+            "Redux Toolkit",
+          ],
+      category: "web app",
+      github: "https://github.com/Bandinikhil/client-email-webapp",
+      webapp: "https://client-email-webapp.netlify.app/",
+ 
+    },
+    {
+      id: 6,
+      title: "Admin-Dashboard",
+      description:
+        "Engineered a robust Admin Dashboard in React with Redux, showcasing dynamic pagination, search functionality, inline editing and deleting features, and a convenient 'Delete All' option for enhanced user management",
+      image:
+        "https://github.com/Bandinikhil/images/assets/105233916/9ee5c8a8-01f7-4d14-b1f4-8de36debab5b",
+        tags: [
+            "React Js",
+            "JavaScript",
+            "Jest",
+            "Tailwind CSS",
+            "Redux Toolkit",
+          ],
+      category: "web app",
+      github: "https://github.com/Bandinikhil/dashboard",
+      webapp: "https://admiin-dashboaard.netlify.app/",
+ 
+    },
+   {
+      id: 7,
+      title: "Pricing-Component",
+      description:
+        "This is an interactive pricing component project where users can view pricing based on the number of page views and choose between monthly and yearly billing options.",
+      image:
+        "https://github.com/Bandinikhil/images/assets/105233916/f6972ef5-1232-4129-aa53-765cd962816a",
+        tags: [
+            "React Js",
+            "JavaScript",
+            "Jest",
+            "Tailwind CSS",
+           
+          ],
+      category: "web app",
+      github: "https://github.com/Bandinikhil/Interactive-pricing-component",
+      webapp: "https://interactive-pricing-componentt.netlify.app/",
+      
+ 
+    },
+    {
+      id: 8,
+      title: "Gim Jam",
+      description:
+        "The Admin Dashboard is a web application built with React and Redux. It allows administrators to manage song request prices, settings, and other related information on the Dhun Jam platform",
+      image:
+        "https://github.com/Bandinikhil/images/assets/105233916/2d677ffb-662c-42be-807c-2b72e77d0921",
+        tags: [
+            "React Js",
+            "JavaScript",
+            "Jest",
+            "Tailwind CSS",
+            "Redux Toolkit",
+          ],
+      category: "web app",
+      github: "https://github.com/Bandinikhil/dhunjam",
+      webapp: "https://master.d1t509b0hm5vwe.amplifyapp.com/",
+ 
+    },
+    {
+      id: 9,
+      title: "Wack-a-mole game",
+      description:
+        "Developed an engaging Wack-a-Mole game using vanilla JavaScript, challenging players with dynamic mole appearances and a countdown timer for a classic and fun browser-based gaming experience.",
+      image:
+        "https://github.com/Bandinikhil/wackmolee/assets/105233916/27a3d9cc-00a5-42d1-b6e9-ff4ab4e2047f",
+        tags: [
+            "React Js",
+            "JavaScript",
+            "Jest",
+            "Tailwind CSS",
+            "Redux Toolkit",
+          ],
+      category: "web app",
+      github: "https://github.com/Bandinikhil/wackmolee",
+      webapp: "https://wack-mole.netlify.app/",
  
     },
    
